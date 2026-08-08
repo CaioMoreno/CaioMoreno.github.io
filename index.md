@@ -156,7 +156,7 @@
   <p>Backend Developer & Data Engineer — evoluindo para AI Engineer</p>
   <div class="links">
     <a href="mailto:caiomoreno.caio@gmail.com">E-mail</a>
-    <a href="https://www.linkedin.com/feed/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/caio-silva-675029180/">LinkedIn</a>
     <a href="https://github.com/CaioMoreno">GitHub</a>
   </div>
 </header>
